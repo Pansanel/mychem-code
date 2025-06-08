@@ -1,3 +1,5 @@
+|SQAaaS badge shields.io|
+
 The Mychem Project
 ==================
 
@@ -37,3 +39,6 @@ the Free Software Foundation version 2 of the License, or
 (at your option) any later version. Full details
 can be found in the `COPYING <https://github.com/mychem/mychem-code/blob/master/COPYING>`_
 file.
+
+.. |SQAaaS badge shields.io| image:: https://img.shields.io/badge/sqaaas%20software-silver-lightgrey
+   :target: https://api.eu.badgr.io/public/assertions/TzAi7kJ4Rr2B9ZI-TEtwDw
